@@ -24,7 +24,7 @@ Strike Rate Table	Supporting table used for custom strike rate classifications o
 
 Each table contains player-specific data over a span of multiple years (e.g., 1992–2006).
 
-📊 Dashboard Views
+### 📊 Dashboard Views
 🔹 Batting Data Analysis
 
 Key KPIs: Runs, Matches, Innings, Strike Rate, Highest Score, 4s, 6s, Centuries
@@ -49,7 +49,7 @@ Dismissals per innings calculated
 
 Provides player fielding span and total matches played
 
-🛠️ Tools Used
+### 🛠️ Tools Used
 Power BI Desktop
 
 Power Query for data transformation
@@ -60,7 +60,7 @@ Buttons and bookmarks for sheet navigation
 
 Custom card visuals for stat presentation
 
-🎯 Features
+### 🎯 Features
 🧍 Player-wise selection using slicers
 
 ⚡ Fast visual feedback using pre-aggregated KPIs
@@ -69,7 +69,7 @@ Custom card visuals for stat presentation
 
 ✨ Aesthetic layout with stylized visuals resembling ESPN and Cricinfo cards
 
-🚀 How to Use
+### 🚀 How to Use
 Clone the repo or download the .pbix file.
 
 Open in Power BI Desktop.
@@ -78,7 +78,7 @@ Select a player from the slicer to view their stats.
 
 Navigate between tabs: Batting, Bowling, Fielding for insights.
 
-📈 Future Enhancements
+### 📈 Future Enhancements
 Add match-wise drill-down (year-wise performance trends)
 
 Integrate live data scraping via ESPN/Cricbuzz APIs
@@ -87,6 +87,6 @@ Include comparison between two players side by side
 
 Build a player ranking engine using weighted metrics
 
-🧑‍💻 Author
+### 🧑‍💻 Author
 Himangsha Goyari
 Data Analytics | Power BI Developer | Sports Analytics Enthusiast
