@@ -2,7 +2,7 @@
 
 This Power BI dashboard presents a comprehensive analysis of individual player statistics across Batting, Bowling, and Fielding using data inspired by ESPN match scorecards. The purpose of this project is to visualize and interpret cricketing performance in a clean and interactive layout.
 
-📌 Objective
+## 📌 Objective
 To design a dynamic and intuitive Power BI dashboard that:
 
 Highlights player-wise performance metrics
@@ -13,7 +13,7 @@ Enables selection of specific players to analyze their historical data
 
 Creates a visual story using ESPN-style statcards and performance summaries
 
-📂 Dataset Overview
+### 📂 Dataset Overview
 The project uses structured data grouped into the following Power BI tables:
 
 Table Name	Description
